@@ -1,0 +1,23 @@
+[
+    {
+        "country": "Italy",
+        "country_iso3": "ITA",
+        "city": "Rome",
+        "lat": 41.902782,
+        "lon": 12.496366
+    },
+    {
+        "country": "Spain",
+        "country_iso3": "ESP",
+        "city": "Barcelona",
+        "lat": 41.390205,
+        "lon": 2.154007
+    },
+    {
+        "country": "Netherlands",
+        "country_iso3": "NLD",
+        "city": "Amsterdam",
+        "lat": 52.377956,
+        "lon": 4.897070
+    }
+]
